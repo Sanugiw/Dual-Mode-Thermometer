@@ -1,1 +1,3 @@
 # Dual-Thermometer
+
+Our project focuses on designing and implementing a dual-temperature monitoring system that measures body and fluid temperatures using separate thermistor probes. We developed a custom built power supply unit that draws power from the main supply, regulates it, and provides stable operation for the circuit. The temperature readings from the thermistors are processed and displayed on an OLED screen, allowing for clear and real-time monitoring. This versatile system can be used in healthcare, laboratory, and household settings. We achieve a seamless combination of accuracy, reliability, and user-friendly design by integrating analog electronics with digital components.
