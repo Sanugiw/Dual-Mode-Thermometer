@@ -1,3 +1,11 @@
 # Dual-Thermometer
 
-Our project focuses on designing and implementing a dual-temperature monitoring system that measures body and fluid temperatures using separate thermistor probes. We developed a custom built power supply unit that draws power from the main supply, regulates it, and provides stable operation for the circuit. The temperature readings from the thermistors are processed and displayed on an OLED screen, allowing for clear and real-time monitoring. This versatile system can be used in healthcare, laboratory, and household settings. We achieve a seamless combination of accuracy, reliability, and user-friendly design by integrating analog electronics with digital components.
+The Dual-Mode Analog Thermometer is a precision temperature measurement device designed using analog components for high accuracy and reliability. Unlike fully digital thermometers, this design leverages thermistors, Wheatstone bridges, and an instrumentation amplifier to ensure precise readings.
+
+This project was developed as part of the EN2091 Laboratory Practice and Projects module in our 3rd semester, with a focus on hands-on circuit design, sensor integration, and analog signal processing.
+
+The device features a toggle switch to shift between body temperature and liquid temperature modes, with plans to integrate a MUX for expanding functionality in future iterations. The readings are displayed on an OLED screen, powered by an Arduino used solely for display purposes.
+
+The power supply unit is designed to efficiently convert AC power into +10V, -10V, and 5V, ensuring stable operation of all components.
+
+This repository documents the design, circuit implementation, and firmware, making it a valuable reference for future improvements.
