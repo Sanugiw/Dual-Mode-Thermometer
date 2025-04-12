@@ -1,11 +1,46 @@
-# Dual-Mode Analog Thermometer
+# 🌡 Dual-Mode Analog Thermometer – Team Voltcrew
 
-The Dual-Mode Analog Thermometer is a precision temperature measurement device designed using analog components for high accuracy and reliability. Unlike fully digital thermometers, this design leverages thermistors, Wheatstone bridges, and an instrumentation amplifier to ensure precise readings.
+As part of the **EN2091 Laboratory Practice and Projects** module (Semester 3), our team, **Voltcrew**, designed and developed a **Dual-Mode Thermometer** using analog electronic components. This project aims to provide accurate and reliable temperature measurements for both **body and liquid** modes.
 
-This project was developed as part of the EN2091 Laboratory Practice and Projects module in our 3rd semester, with a focus on hands-on circuit design, sensor integration, and analog signal processing.
+---
 
-The device features a toggle switch to shift between body temperature and liquid temperature modes, with plans to integrate a MUX for expanding functionality in future iterations. The readings are displayed on an OLED screen, powered by an Arduino used solely for display purposes.
+## 🔧 Project Overview
 
-The power supply unit is designed to efficiently convert AC power into +10V, -10V, and 5V, ensuring stable operation of all components.
+This thermometer operates in **two selectable modes**:
 
-This repository documents the design, circuit implementation, and firmware, making it a valuable reference for future improvements.
+- **Body Temperature Mode**
+- **Liquid Temperature Mode**
+
+The mode can be toggled manually, and future enhancements will include **MUX integration** for expanded functionality.
+
+---
+
+## 🔬 Key Features
+
+- 🧠 **Dual Wheatstone Bridges**  
+  Used for linearizing the input voltage from both NTC and PTC thermistors, ensuring precision in both temperature ranges.
+
+- 🔍 **Instrumentation Amplifier**  
+  Amplifies the small voltage differences from the Wheatstone bridges for further processing.
+
+- 🌡 **Thermistors Used**  
+  - **NTC 10k** for body temperature sensing  
+  - **PTC 100** for liquid temperature sensing
+
+- 🖥 **Display System**  
+  An **Arduino** is used exclusively for displaying the processed temperature values on an **OLED screen**.
+
+- ⚡ **Power Supply Unit**  
+  Custom-designed unit that converts AC power to **+10V, -10V, and +5V** to power the analog circuits and Arduino.
+
+---
+
+## 📈 Future Improvements
+
+- Integrating a **multiplexer (MUX)** to enable dynamic switching between multiple temperature inputs.
+- Potential expansion to include environmental or surface temperature modes.
+
+---
+
+Stay tuned for updates and enhancements!  
+
