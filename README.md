@@ -1,4 +1,4 @@
-# 🌡 Dual-Mode Analog Thermometer – Team Voltcrew
+# 🌡 Dual-Mode Analog Thermometer 
 
 As part of the **EN2091 Laboratory Practice and Projects** module (Semester 3), our team, **Voltcrew**, designed and developed a **Dual-Mode Thermometer** using analog electronic components. This project aims to provide accurate and reliable temperature measurements for both **body and liquid** modes.
 
