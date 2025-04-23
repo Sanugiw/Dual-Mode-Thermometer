@@ -40,7 +40,5 @@ The mode can be toggled manually, and future enhancements will include **MUX int
 - Integrating a **multiplexer (MUX)** to enable dynamic switching between multiple temperature inputs.
 - Potential expansion to include environmental or surface temperature modes.
 
----
 
-Stay tuned for updates and enhancements!  
 
