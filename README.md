@@ -76,8 +76,10 @@ To protect and house the electronics, we created a **cost-effective 3D-printed e
 
 
 ## 🤝 Contributors  
-- **Luchitha** – Circuit Design, PCB, and Enclosure  
-- **Team Voltcrew** – Development & Testing  
+- Luchitha Perera
+- Benul Wijayarathna
+- Sanugi Wickramasinghe
+- Hansani Kaumadi 
 
 
 
