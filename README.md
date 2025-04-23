@@ -33,11 +33,11 @@ This project was developed as part of the **EN2091 Laboratory Practice and Proje
 Using Altium Designer we designed our schematic and 2 PCBs for 5V and 3.3V power supply and our Thermometer.
 ![Schematic](Images/schematic.jpeg)
 ![Sensor](Images/pcb_main.jpeg)
-![Power Supply](pcb.jpeg)
+![Power Supply](Images\pcb.jpeg)
 
 ## 📸 Enclosure
 For our Enclosure design we used SolidWorks and made a cost effective 3D-printed enclosure.
-![Enclosurw](enclosure.jpeg)
+![Enclosurw](Images\enclosure.jpeg)
 
 
 ## 🚀 Getting Started  
