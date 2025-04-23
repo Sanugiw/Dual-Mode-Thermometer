@@ -29,15 +29,37 @@ This project was developed as part of the **EN2091 Laboratory Practice and Proje
 | **Arduino** | Handles display functionality |
 | **Power Supply** | Converts AC to +10V, -10V, and 5V |
 
-## 📸 Schematic and PCB
-Using Altium Designer we designed our schematic and 2 PCBs for 5V and 3.3V power supply and our Thermometer.
-![Schematic](Images/schematic.jpeg)
-![Sensor](Images/pcb_main.jpeg)
-![Power Supply](Images/pcb.jpeg)
+## 🧩 Schematic & PCB Design
 
-## 📸 Enclosure
-For our Enclosure design we used SolidWorks and made a cost effective 3D-printed enclosure.
-![Enclosurw](Images/enclosure.jpeg)
+We designed both the **schematic** and **printed circuit boards (PCBs)** using **Altium Designer**. The project includes:
+
+- 🧠 **Main Thermometer PCB** – Houses the signal conditioning circuit using Wheatstone bridges, thermistors, and an instrumentation amplifier.
+- 🔋 **Dual Power Supply PCB** – Converts AC input into stable **+10V, -10V, and 5V** DC outputs. Two versions were designed: one for **5V** and another for **3.3V** compatibility with different microcontrollers.
+
+### 🖼️ Visuals:
+![📐 Schematic](Images/schematic.jpeg)
+> *Complete circuit schematic designed in Altium Designer.*
+
+![🔧 Sensor PCB](Images/pcb_main.jpeg)
+> *Main PCB for the analog thermometer circuit.*
+
+![⚡ Power PCB](Images/pcb.jpeg)
+> *Power supply PCB providing +10V, -10V, and 5V rails.*
+
+---
+
+## 🧱 Enclosure Design
+
+To protect and house the electronics, we created a **cost-effective 3D-printed enclosure** using **SolidWorks**. The design features:
+
+- 💡 **Compact & Ergonomic** layout for portability and ease of use.
+- 🛠️ **Snap-fit joints** for quick assembly without screws.
+- 🔄 **Modular access** to switch between body and liquid temperature modes.
+- 📏 **Display window** for OLED visibility and button access.
+
+### 🖼️ Visual:
+![🧊 Enclosure](Images/enclosure.jpeg)
+> *3D-modeled enclosure designed for compactness and cost-efficient 3D printing.*
 
 
 ## 🚀 Getting Started  
