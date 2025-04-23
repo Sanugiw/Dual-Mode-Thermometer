@@ -1,7 +1,5 @@
 # 🏥 Dual-Mode Analog Thermometer  
 
-![Project Banner](breadboard.png) <!-- Add an image of your device or schematic if available -->
-
 ## 📌 Overview  
 The **Dual-Mode Analog Thermometer** is a precision temperature measurement device designed using **analog components** to ensure high accuracy and reliability. Unlike fully digital thermometers, this design utilizes **thermistors, Wheatstone bridges, and an instrumentation amplifier** for precise temperature readings.  
 
