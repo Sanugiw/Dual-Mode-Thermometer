@@ -29,8 +29,16 @@ This project was developed as part of the **EN2091 Laboratory Practice and Proje
 | **Arduino** | Handles display functionality |
 | **Power Supply** | Converts AC to +10V, -10V, and 5V |
 
-## 📸 Images & Schematics  
-(Add relevant images of your circuit, PCB, and final enclosure here)  
+## 📸 Schematic and PCB
+Using Altium Designer we designed our schematic and 2 PCBs for 5V and 3.3V power supply and our Thermometer.
+![Schematic](Images/schematic.jpeg)
+![Sensor](Images/pcb_main.jpeg)
+![Power Supply](pcb.jpeg)
+
+## 📸 Enclosure
+For our Enclosure design we used SolidWorks and made a cost effective 3D-printed enclosure.
+![Enclosurw](enclosure.jpeg)
+
 
 ## 🚀 Getting Started  
 ### 🔧 Requirements  
