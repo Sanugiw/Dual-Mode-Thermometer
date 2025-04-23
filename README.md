@@ -34,7 +34,7 @@ This project was developed as part of the **EN2091 Laboratory Practice and Proje
 We designed both the **schematic** and **printed circuit boards (PCBs)** using **Altium Designer**. The project includes:
 
 - 🧠 **Main Thermometer PCB** – Houses the signal conditioning circuit using Wheatstone bridges, thermistors, and an instrumentation amplifier.
-- 🔋 **Dual Power Supply PCB** – Converts AC input into stable **+10V, -10V, and 5V** DC outputs. Two versions were designed: one for **5V** and another for **3.3V** compatibility with different microcontrollers.
+- 🔋 **Dual Power Supply PCB** – Converts AC input into stable **+10V, -10V, and 5V** DC outputs. 
 
 ### 🖼️ Visuals:
 ![📐 Schematic](Images/schematic.jpeg)
