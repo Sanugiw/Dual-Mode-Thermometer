@@ -74,13 +74,10 @@ To protect and house the electronics, we created a **cost-effective 3D-printed e
 4. **Use the Toggle Switch** to switch between temperature modes.  
 5. **Observe the Temperature Readings** on the OLED display.  
 
-## 📜 License  
-This project is licensed under the **MIT License**. Feel free to modify and improve upon it!  
 
 ## 🤝 Contributors  
 - **Luchitha** – Circuit Design, PCB, and Enclosure  
 - **Team Voltcrew** – Development & Testing  
 
-## ⭐ Acknowledgments  
-Special thanks to our **EN2091** module instructors and teammates for their guidance and support!  
+
 
